@@ -13,3 +13,5 @@ class CalcTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+# competing base advance feat/qual-20261111-104728-677a6a-sc3-advance
